@@ -131,6 +131,12 @@ a:hover{
     background-color: #fff;
     text-decoration: none;
 }
+.banner{
+    padding: 32px;
+    border-radius: 16px;
+    background-color: #FFF;
+    color: #183F25;
+}
 @media only screen and (max-width: 768px) {
     body{
         flex-direction: column;
